@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css'
-import { PrintMsg } from 'mesg'
+import  PrintMsg  from 'mesg'
 
 const App: React.FC = () => {
   return (
     <React.Fragment >
       <h1>Yousuf</h1>
-      <PrintMsg />
+      <PrintMsg name="yousuf1" />
     </React.Fragment >
   )
 }

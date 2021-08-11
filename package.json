@@ -13,7 +13,8 @@
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.1",
     "typescript": "^4.1.2",
-    "web-vitals": "^1.0.1"
+    "web-vitals": "^1.0.1",
+    "mesg": "./shared"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -42,7 +43,6 @@
   },
   "devDependencies": {
     "@types/react": "^17.0.16",
-    "@types/react-app": "^1.0.6",
-    "mesg": "file:./shared"
+    "@types/react-app": "^1.0.6"
   }
 }
